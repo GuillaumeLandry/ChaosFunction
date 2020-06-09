@@ -19,7 +19,7 @@ git clone https://github.com/GuillaumeLandry/ChaosFunction.git
 
 2. Change directory to your local folder.
 ```bash
-cd chaosfunction/chaos
+cd chaosfunction
 ```
 
 3. Run the __chaosgraph.py__ script and enjoy!
