@@ -14,7 +14,7 @@ git clone https://github.com/GuillaumeLandry/ChaosFunction.git
 
 2. Change directory to your local folder.
 ```bash
-cd chaosfunction
+cd chaosfunction/chaos
 ```
 
 3. Install matplotlib in order to run the graph.
