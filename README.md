@@ -19,7 +19,7 @@ cd chaosfunction/chaos
 
 3. Install matplotlib in order to run the graph.
 ```bash
-pip install -g matplotlib
+pip install matplotlib
 ```
 
 3. Run the __chaosgraph.py__ script and enjoy!
