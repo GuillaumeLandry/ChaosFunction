@@ -17,7 +17,7 @@ Valeurs clé de r (à tester):
 # Importation du module nécessaire
 import matplotlib.pyplot as plt
 
-def fonction_chaotique(x=float(input('Entrez le pourcentage à évaluer (Entre 0 et 1): ')), r=float(input('Entrez le niveau de chaos désiré: '))):
+def fonction_chaotique(x=float(input('Entrez le pourcentage à évaluer (Entre 0 et 1): ')), r=float(input('Entrez le niveau de chaos désiré (valeurs clé suggérées: 2, 3, 3.5, 3.6, 4): '))):
     i=0
     while i < 1000:
         result = r*x*(1-x)
