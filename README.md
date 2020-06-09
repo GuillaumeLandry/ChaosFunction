@@ -5,7 +5,7 @@ A simple graph that shows different levels of chaos, depending on given paramete
 # Requirements
 Python must be installed on your computer. You can get it via [Python's website](https://www.python.org/).
 
-# How to play
+# Setup & Run
 
 1. Open your terminal, then clone the repository.
 ```bash
@@ -26,3 +26,7 @@ pip install -g matplotlib
 ```bash
 python chaosgraph.py
 ```
+
+# Additional Resources
+
+Content used for the graph comes from the famous youtuber Veritassium. He uploaded a video presenting this function and it's explanation. You can watch it on [youtube](https://www.youtube.com/watch?v=ovJcsL7vyrk).
