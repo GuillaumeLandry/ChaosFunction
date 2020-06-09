@@ -4,6 +4,11 @@ A simple graph that shows different levels of chaos, depending on given paramete
 
 # Requirements
 Python must be installed on your computer. You can get it via [Python's website](https://www.python.org/).
+Also, be sure matplotlib labrary is installed:
+```bash
+pip install matplotlib
+```
+
 
 # Setup & Run
 
@@ -15,11 +20,6 @@ git clone https://github.com/GuillaumeLandry/ChaosFunction.git
 2. Change directory to your local folder.
 ```bash
 cd chaosfunction/chaos
-```
-
-3. Install matplotlib in order to run the graph.
-```bash
-pip install -g matplotlib
 ```
 
 3. Run the __chaosgraph.py__ script and enjoy!
