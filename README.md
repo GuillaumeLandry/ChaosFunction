@@ -29,4 +29,4 @@ python chaosgraph.py
 
 # Additional Resources
 
-Content used for the graph comes from the famous youtuber Veritassium. He uploaded a video presenting this function and it's explanation. You can watch it on [youtube](https://www.youtube.com/watch?v=ovJcsL7vyrk).
+Content used for the graph comes from the famous youtuber Veritassium. He uploaded a video presenting this function and it's explanation. You can watch this video on [youtube](https://www.youtube.com/watch?v=ovJcsL7vyrk).
