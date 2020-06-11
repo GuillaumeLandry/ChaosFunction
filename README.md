@@ -4,7 +4,7 @@ A simple graph that shows different levels of chaos, depending on given paramete
 
 # Requirements
 Python must be installed on your computer. You can get it via [Python's website](https://www.python.org/).
-Also, be sure matplotlib labrary is installed:
+Also, be sure matplotlib library is installed:
 ```bash
 pip install matplotlib
 ```
